@@ -1,0 +1,48 @@
+# =========================
+# Data Handling & EDA
+# =========================
+pandas
+numpy
+matplotlib
+seaborn
+faker
+
+# =========================
+# Machine Learning
+# =========================
+scikit-learn
+
+# =========================
+# Transformers & LLM
+# =========================
+transformers==4.40.2
+huggingface_hub==0.23.0
+torch
+accelerate
+bitsandbytes
+
+
+# =========================
+# Embeddings
+# =========================
+sentence-transformers
+
+# =========================
+# RAG / Vector DB
+# =========================
+faiss-cpu
+pypdf
+
+# =========================
+# LangChain Ecosystem
+# =========================
+langchain
+langchain-community
+langchain-huggingface
+bitsandbytes-cuda115
+
+# =========================
+# Streamlit
+# =========================
+streamlit
+emoji

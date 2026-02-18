@@ -1,0 +1,89 @@
+Time,User Type,Query,Intent,Sentiment,Priority,Status
+2026-02-17 12:54:48.784406,New User,"Hope you’re doing well, very unhappy with ZENDArchive Storage service for enterprise usage.",Complaint,Frustrated,High,Resolved
+2026-02-17 12:54:48.787468,Existing User,"Hello support, internet speed is extremely slow on ZENDStorage 1TB in USA for enterprise usage.",Technical,Frustrated,High,Resolved
+2026-02-17 12:54:48.788484,New User,"Kindly help me with, very unhappy with ZENDStorage 10TB service after installation.",Complaint,Frustrated,High,Resolved
+2026-02-17 12:54:48.788484,New User,"Good morning, very unhappy with ZENDStorage 10TB service for enterprise usage.",Complaint,Frustrated,High,Resolved
+2026-02-17 12:54:48.790561,Existing User,"Can you please confirm, cost of ZENDSmart Traffic is too high for enterprise usage.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 12:54:48.791556,New User,"Hope you’re doing well, refund not processed for ZENDOffice Net 500 for international usage.",Refund,Frustrated,High,Resolved
+2026-02-17 12:54:48.792473,New User,"I have a concern about, billing charges for ZENDStorage 1TB seem incorrect in India for international usage.",Billing,Frustrated,High,Resolved
+2026-02-17 12:54:48.793472,New User,"I wanted to check, very unhappy with ZENDSmart Parking service for international usage.",Complaint,Frustrated,High,Resolved
+2026-02-17 12:54:48.795471,Existing User,"Good morning, internet speed is extremely slow on ZENDBiz Connect 500 in India for enterprise usage.",Technical,Frustrated,High,Resolved
+2026-02-17 12:54:48.798473,New User,"Can you please confirm, cost of ZENDStorage 1TB is too high during peak hours.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 12:54:48.801480,Existing User,"I need assistance regarding, refund not processed for ZENDSmart Parking after my recent upgrade.",Refund,Frustrated,High,Resolved
+2026-02-17 12:54:48.804479,New User,"I need assistance regarding, refund not processed for Postpaid Platinum for my office network.",Refund,Frustrated,High,Resolved
+2026-02-17 12:54:48.805796,Existing User,"Hi team, internet speed is extremely slow on ZENDFiber Home 100 Mbps in USA after my recent upgrade.",Technical,Frustrated,High,Resolved
+2026-02-17 12:54:48.806902,New User,"Hello support, billing charges for ZENDBiz Connect 100 seem incorrect in Thailand for my home connection.",Billing,Frustrated,High,Resolved
+2026-02-17 12:54:48.806902,New User,"I wanted to check, cost of ZENDFiber Home 1 Gbps is too high since last week.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 12:54:48.807876,Existing User,"I wanted to check, refund not processed for ZENDOffice Net 200 after installation.",Refund,Frustrated,High,Resolved
+2026-02-17 12:54:48.809883,Existing User,"I wanted to check, internet speed is extremely slow on Prepaid Plus 20GB in India for my home connection.",Technical,Frustrated,High,Resolved
+2026-02-17 12:54:48.810804,New User,"Can you please confirm, cost of ZENDFleet IoT is too high for international usage.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 12:54:48.812804,Existing User,"I need assistance regarding, billing charges for ZENDSmart Traffic seem incorrect in India for my home connection.",Billing,Frustrated,High,Resolved
+2026-02-17 12:54:48.812804,New User,"I have a concern about, refund not processed for ZENDEnterprise Ultra after installation.",Refund,Frustrated,High,Resolved
+2026-02-17 12:54:48.813804,New User,"Hi team, internet speed is extremely slow on Prepaid Unlimited in Thailand for my home connection.",Technical,Frustrated,High,Resolved
+2026-02-17 12:54:48.813804,Existing User,"Hope you’re doing well, cost of ZENDFleet IoT is too high after installation.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 12:54:48.814803,New User,"Hello support, cost of Postpaid Silver is too high for international usage.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 12:54:48.814803,Existing User,"Hello support, very unhappy with Postpaid Gold service for international usage.",Complaint,Frustrated,High,Resolved
+2026-02-17 12:54:48.815804,New User,"I would like to know, billing charges for ZENDFiber Home 100 Mbps seem incorrect in Singapore as part of my annual plan.",Billing,Frustrated,High,Resolved
+2026-02-17 21:25:19.568452,Existing User,"Kindly help me with, cost of ZENDFleet IoT is too high during peak hours.",Product Inquiry,Frustrated,High,Resolved
+2026-02-17 21:25:19.573449,Existing User,"Hope you’re doing well, very unhappy with ZENDIndustrial Sensor service for my home connection.",Complaint,Frustrated,High,Resolved
+2026-02-17 21:25:19.575449,Existing User,"I would like to know, very unhappy with ZENDSmart Lighting service for my home connection.",Complaint,Frustrated,High,Resolved
+2026-02-17 21:25:19.579528,Existing User,"I need assistance regarding, internet speed is extremely slow on ZENDCloud VM Pro in India since last week.",Technical,Frustrated,High,Resolved
+2026-02-17 21:25:19.582451,Existing User,"I would like to know, internet speed is extremely slow on Postpaid Platinum in Thailand for my home connection.",Technical,Frustrated,High,Resolved
+2026-02-17 21:28:03.802994,New User,"How many days will it take to avail refund
+",Refund,Frustrated,High,Resolved
+2026-02-17 21:47:02.383846,New User,Do you have broadband connection in uae,Technical,Frustrated,High,Resolved
+2026-02-17 21:58:19.111815,New User,"I wanted to check, very unhappy with ZENDSmart Parking service for international usage",Complaint,Frustrated,High,Resolved
+2026-02-17 22:03:20.858768,New User,"I wanted to check, very unhappy with ZENDSmart Parking service for international usage",Complaint,Frustrated,High,Resolved
+2026-02-17 22:44:08.461604,Existing User,"Hi team, my ZENDStorage 10TB connection keeps disconnecting in Thailand during peak hours.",Technical,Frustrated,High,Resolved
+2026-02-17 22:44:08.463607,New User,"Can you please confirm, billing charges for ZENDCloud VM Pro seem incorrect in USA since last week.",Billing,Frustrated,High,Resolved
+2026-02-17 22:44:08.466578,Existing User,"I would like to know, my ZENDCloud VM Enterprise connection keeps disconnecting in Thailand since last week.",Technical,Frustrated,High,Resolved
+2026-02-17 22:44:08.468580,New User,"Hi team, internet speed is extremely slow on Prepaid Unlimited in Singapore for international usage.",Technical,Frustrated,High,Resolved
+2026-02-17 22:44:08.471600,New User,"I need assistance regarding, my ZENDFleet IoT connection keeps disconnecting in Thailand under my current subscription.",Technical,Frustrated,High,Resolved
+2026-02-18 10:30:19.012770,New User,"Good morning, billing charges for ZENDSmart Lighting seem incorrect in Singapore for international usage.",Billing,Frustrated,High,Resolved
+2026-02-17 12:54:48.785398,Existing User,"I wanted to check, how to raise complaint for ZENDEnterprise Dedicated after my recent upgrade.",Complaint,Informational,Medium,Resolved
+2026-02-17 12:54:48.790561,Existing User,"Good morning, refund eligibility for Prepaid Plus 20GB since last week.",Refund,Informational,Medium,Resolved
+2026-02-17 12:54:48.791556,New User,"Kindly help me with, price of ZENDIndustrial Sensor in Singapore under my current subscription.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.795471,New User,"I have a concern about, price of ZENDStorage 10TB in Singapore after my recent upgrade.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.796481,New User,"I would like to know, explain billing cycle for ZENDArchive Storage for my office network.",Billing,Informational,Medium,Resolved
+2026-02-17 12:54:48.797472,New User,"Good morning, explain billing cycle for ZENDOffice Net 200 under my current subscription.",Billing,Informational,Medium,Resolved
+2026-02-17 12:54:48.798473,New User,"Hello support, features included in ZENDBiz Connect 100 for enterprise usage.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.799472,New User,"I would like to know, installation time for Prepaid Basic 5GB in Singapore after my recent upgrade.",Technical,Informational,Medium,Resolved
+2026-02-17 12:54:48.800473,New User,"I need assistance regarding, price of ZENDCloud VM Pro in India after my recent upgrade.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.800473,New User,"Hello support, refund eligibility for ZENDBiz Connect 1G during peak hours.",Refund,Informational,Medium,Resolved
+2026-02-17 12:54:48.801480,Existing User,"I need assistance regarding, features included in ZENDBiz Connect 100 after installation.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.802479,Existing User,"I have a concern about, refund eligibility for Prepaid Plus 20GB under my current subscription.",Refund,Informational,Medium,Resolved
+2026-02-17 12:54:48.803479,New User,"Can you please confirm, how to raise complaint for ZENDCloud VM Basic after installation.",Complaint,Informational,Medium,Resolved
+2026-02-17 12:54:48.803479,Existing User,"Kindly help me with, features included in ZENDCloud VM Enterprise since last week.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.804479,Existing User,"Hello support, features included in ZENDStorage 1TB for enterprise usage.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.808884,Existing User,"I wanted to check, installation time for Prepaid Plus 20GB in Thailand for international usage.",Technical,Informational,Medium,Resolved
+2026-02-17 12:54:48.810804,Existing User,"I wanted to check, installation time for Prepaid Basic 5GB in Singapore for my home connection.",Technical,Informational,Medium,Resolved
+2026-02-17 12:54:48.811804,Existing User,"I would like to know, features included in ZENDFleet IoT since last week.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.811804,Existing User,"I need assistance regarding, refund eligibility for Postpaid Platinum for international usage.",Refund,Informational,Medium,Resolved
+2026-02-17 12:54:48.815804,Existing User,"Kindly help me with, how to raise complaint for Postpaid Gold as part of my annual plan.",Complaint,Informational,Medium,Resolved
+2026-02-17 21:25:19.570449,Existing User,"Good morning, features included in Postpaid Silver under my current subscription.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 21:25:19.578449,New User,"Good morning, installation time for Postpaid Platinum in USA since last week.",Technical,Informational,Medium,Resolved
+2026-02-17 21:25:19.580523,Existing User,"I would like to know, features included in ZENDFleet IoT during peak hours.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 21:25:19.580523,Existing User,"Kindly help me with, how to raise complaint for Postpaid Platinum for international usage.",Complaint,Informational,Medium,Resolved
+2026-02-17 21:25:19.581528,New User,"Good morning, how to raise complaint for ZENDFleet IoT as part of my annual plan.",Complaint,Informational,Medium,Resolved
+2026-02-17 21:39:30.921698,New User,What is the price zend fiber in india ,Product Inquiry,Informational,Medium,Resolved
+2026-02-17 22:05:46.398025,New User,Installation delay complaint,Complaint,Informational,Medium,Resolved
+2026-02-17 22:06:54.944967,New User,Installation delay complaint,Complaint,Informational,Medium,Resolved
+2026-02-17 22:44:08.465585,New User,"I wanted to check, installation time for Postpaid Platinum in India since last week.",Technical,Informational,Medium,Resolved
+2026-02-17 22:44:08.470608,Existing User,"Hi team, refund eligibility for ZENDCloud VM Basic after my recent upgrade.",Refund,Informational,Medium,Resolved
+2026-02-17 22:44:08.474574,Existing User,"Hello support, price of Postpaid Platinum in Thailand for my home connection.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 22:44:08.476575,Existing User,"Hope you’re doing well, explain billing cycle for ZENDSmart Lighting for my office network.",Billing,Informational,Medium,Resolved
+2026-02-18 10:30:19.007763,New User,"I need assistance regarding, how to raise complaint for ZENDCloud VM Pro for my home connection.",Complaint,Informational,Medium,Resolved
+2026-02-18 10:30:19.008764,Existing User,"I need assistance regarding, refund eligibility for Prepaid Basic 5GB for my office network.",Refund,Informational,Medium,Resolved
+2026-02-18 10:30:19.009771,New User,"I have a concern about, refund eligibility for ZENDSmart Lighting for my office network.",Refund,Informational,Medium,Resolved
+2026-02-18 10:30:19.009771,Existing User,"Good morning, price of Prepaid Unlimited in USA as part of my annual plan.",Product Inquiry,Informational,Medium,Resolved
+2026-02-18 10:30:19.010771,Existing User,"I need assistance regarding, explain billing cycle for Prepaid Plus 20GB during peak hours.",Billing,Informational,Medium,Resolved
+2026-02-18 10:30:19.010771,Existing User,"Kindly help me with, explain billing cycle for ZENDEnterprise Ultra as part of my annual plan.",Billing,Informational,Medium,Resolved
+2026-02-18 10:30:19.013764,New User,"Hello support, explain billing cycle for ZENDIndustrial Sensor after my recent upgrade.",Billing,Informational,Medium,Resolved
+2026-02-18 10:30:19.014777,Existing User,"I have a concern about, how to raise complaint for ZENDOffice Net 1G as part of my annual plan.",Complaint,Informational,Medium,Resolved
+2026-02-18 10:30:19.015773,New User,"Good morning, price of ZENDCloud VM Enterprise in Thailand for enterprise usage.",Product Inquiry,Informational,Medium,Resolved
+2026-02-17 12:54:48.789551,New User,"I need assistance regarding, ZENDCloud VM Basic offers great value for money during peak hours.",Product Inquiry,Satisfied,Low,Resolved
+2026-02-17 12:54:48.794472,New User,"Hope you’re doing well, network performance has been excellent on ZENDBiz Connect 100 for enterprise usage.",Technical,Satisfied,Low,Resolved
+2026-02-17 12:54:48.796481,Existing User,"I would like to know, network performance has been excellent on ZENDOffice Net 200 during peak hours.",Technical,Satisfied,Low,Resolved
+2026-02-17 12:54:48.799472,New User,"Hello support, network performance has been excellent on Prepaid Plus 20GB under my current subscription.",Technical,Satisfied,Low,Resolved
+2026-02-17 12:54:48.805796,New User,"Good morning, ZENDCloud VM Enterprise offers great value for money for international usage.",Product Inquiry,Satisfied,Low,Resolved
+2026-02-17 22:44:08.472604,Existing User,"Kindly help me with, ZENDCloud VM Basic offers great value for money since last week.",Product Inquiry,Satisfied,Low,Resolved
